@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: white;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    height: 250px;
+  margin: 10px;
+}
+p {
+  text-align: center;
+}
+.carousel-inner p {
+    margin-bottom:15 px;
+    margin-top: 15px;
+    color: black;
+    font-size: 20px;
+}
+#slider {
+    background-color: yellowgreen;
+}
+#gal {
+    background-color: blue;
+}
